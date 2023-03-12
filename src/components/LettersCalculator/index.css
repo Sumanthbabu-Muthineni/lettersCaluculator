@@ -1,0 +1,51 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  padding-left: 25px;
+  align-items: center;
+  justify-content: space-between;
+}
+.heading {
+  color: #ffffff;
+}
+.input-para {
+  color: #ffffff;
+  font-size: 15px;
+}
+.input-holder {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 300px;
+  cursor: pointer;
+  color: #ffffff;
+  outline: none;
+  height: 25px;
+  padding-left: 4px;
+  border-radius: 3px;
+}
+.button-container {
+  color: #219a6f;
+  background-color: #ffffff;
+  width: 150px;
+  height: 40px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+}
+.whole-container {
+  display: flex;
+  justify-content: space-between;
+}
+.last-image-container {
+  background-color: transparent;
+}
+.image-letter {
+  width: 50vw;
+}
